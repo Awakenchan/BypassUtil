@@ -3,7 +3,7 @@
 ## 🤠 Features
 **Utilities for bypassing games.**
 
-**Light weight**
+**Light weight & uses secure calls for functions.**
 <br/>
 ## 🔌 Installation
 Loadstring:
